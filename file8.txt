@@ -1,5 +1,9 @@
 heyyy i've been created from develop branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding a line from GIT
 =======
 >>>>>>> 68ee6e47e85bee5ee6b8c89fc4f4cfe546ad305e
+=======
+adding a line from GIT1
+>>>>>>> 517cde913cef795e7f2eb57c60c13117eedad07b
